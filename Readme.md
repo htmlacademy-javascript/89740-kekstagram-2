@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Елена Нодельман](https://up.htmlacademy.ru/javascript-individual/2/user/89740).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Хапов](https://htmlacademy.ru/profile/id118459).
 
 ---
 
